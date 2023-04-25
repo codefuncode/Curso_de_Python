@@ -1,0 +1,12 @@
+https://www.youtube.com/playlist?list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS
+
+
+python index.py
+
+https://stackoverflow.com/questions/43081087/how-send-post-request-from-php-to-python
+
+https://www.w3schools.com/PYTHON/module_requests.asp
+
+https://dev.to/abdurrahmaanj/using-anaconda-on-sublime-text-39le
+
+https://packagecontrol.io/packages/SublimeREPL

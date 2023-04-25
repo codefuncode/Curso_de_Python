@@ -1,0 +1,22 @@
+https://www.javatpoint.com/python-tkinter
+Python Tkinter (GUI)
+Python Tkinter open link
+Tkinter Button
+Tkinter Canvas
+Tkinter Checkbutton
+Tkinter Entry
+Tkinter Frame
+Tkinter Label
+Tkinter Listbox
+Tkinter Menubutton
+Tkinter Menu
+Tkinter Message
+Tkinter Radiobutton
+Tkinter Scale
+Tkinter Scrollbar
+Tkinter Text
+Tkinter Toplevel
+Tkinter Spinbox
+Tkinter PanedWindow
+Tkinter LabelFrame
+Tkinter MessageBox
